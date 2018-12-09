@@ -1,0 +1,10 @@
+[person_1]
+name = crat
+age = 20
+class = 55
+
+[person_2]
+name = cyy
+age = 19
+sex = w
+
